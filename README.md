@@ -230,7 +230,11 @@ Enables download as Markdown
 🙏 Acknowledgments
 
 LangChain Team for the incredible LangGraph framework
+
 Google for Gemini 2.0 and generous API access
+
 Streamlit for making beautiful UIs effortless
+
 Open-Meteo for free weather data
+
 DuckDuckGo for privacy-respecting search
